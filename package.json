@@ -1,0 +1,12 @@
+{
+  "name": "js-slideshow",
+  "version": "1.0.0",
+  "main": "index.html",
+  "license": "CC BY-SA 4.0",
+  "dependencies": {
+    "sass": "^1.32.7"
+  },
+  "scripts": {
+    "dev": "sass --watch scss:assets/css"
+  }
+}
